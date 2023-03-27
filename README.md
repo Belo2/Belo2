@@ -17,7 +17,7 @@ SQL
 Photoshop
 Premiere Pro
 Contact Me
-If you have any questions or would like to get in touch with me, you can reach me at belo-l@outlook.com or through my LinkedIn profile.
+If you have any questions or would like to get in touch with me, you can reach me at belo-l@outlook.com or through my [LinkedIn profile](https://www.linkedin.com/in/bleron-bekteshi-71934323b/).
 
 How to Contribute
 While I don't have any open-source projects at the moment, I'm always looking for ways to improve my skills and collaborate with other developers. If you have any suggestions or ideas for projects I could work on, feel free to reach out to me!
